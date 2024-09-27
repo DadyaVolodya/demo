@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.boot.docker-compose.enabled",
+      "type": "java.lang.String",
+      "description": "Description for spring.boot.docker-compose.enabled."
+    },
+    {
+      "name": "spring.cloud.zookeeper.config.import-check.enabled",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.zookeeper.config.import-check.enabled."
+    }
+  ] }
